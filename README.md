@@ -1,12 +1,10 @@
-# 3D-Designing-a-robotic-dog
-Preliminary 3D mechanical design of a quadruped robot dog using Tinkercad, evaluating 8 DoF kinematics, joint torque equations, and static crawl gait stability criteria.
+# 🐕 Quadruped Robot Dog - Preliminary Mechanical Design
 
 ![Tinkercad](https://img.shields.io/badge/Design-Tinkercad-blue?style=for-the-badge&logo=autodesk)
 ![Status](https://img.shields.io/badge/Project-Academic_Prototype-success?style=for-the-badge)
 
-# 🐕 Quadruped Robot Dog - Preliminary Mechanical Design
-
 This repository contains the preliminary 3D mechanical design and engineering report for a bio-inspired quadruped robot dog. The goal of this project is to explore the mechanical fundamentals, stability criteria, and actuator constraints required to achieve stable robotic walking.
+
 
 <img width="502" height="487" alt="لقطة شاشة 2026-07-08 013747" src="https://github.com/user-attachments/assets/4ac748be-7566-4d0b-a453-7d29d2b7aa61" />
 
