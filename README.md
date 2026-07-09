@@ -1,8 +1,5 @@
 # 🐕 Quadruped Robot Dog - Preliminary Mechanical Design
 
-![Tinkercad](https://img.shields.io/badge/Design-Tinkercad-blue?style=for-the-badge&logo=autodesk)
-![Status](https://img.shields.io/badge/Project-Academic_Prototype-success?style=for-the-badge)
-
 This repository contains the preliminary 3D mechanical design and engineering report for a bio-inspired quadruped robot dog. The goal of this project is to explore the mechanical fundamentals, stability criteria, and actuator constraints required to achieve stable robotic walking.
 
 
