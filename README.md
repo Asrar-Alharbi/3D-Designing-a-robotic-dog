@@ -8,9 +8,8 @@ Preliminary 3D mechanical design of a quadruped robot dog using Tinkercad, evalu
 
 This repository contains the preliminary 3D mechanical design and engineering report for a bio-inspired quadruped robot dog. The goal of this project is to explore the mechanical fundamentals, stability criteria, and actuator constraints required to achieve stable robotic walking.
 
-<p align="center">
-  <img src="https://github.com/Users/asrar/OneDrive/الصور/Screenshots/لقطة شاشة 2026-07-08 013747 " alt="Quadruped Robot Design" width="450">
-</p>
+<img width="502" height="487" alt="لقطة شاشة 2026-07-08 013747" src="https://github.com/user-attachments/assets/4ac748be-7566-4d0b-a453-7d29d2b7aa61" />
+
 
 ## 🚀 Project Overview
 The prototype was entirely modeled using **Tinkercad**. To give the design a highly structural, modular, and robotic look, it was converted into **Block Mode (Bricks)**. This layout ensures a rigid chassis while optimizing the geometric boundaries for hardware prototyping.
@@ -31,15 +30,7 @@ The prototype was entirely modeled using **Tinkercad**. To give the design a hig
 ### 3. Locomotion Strategy
 The robot utilizes a **Static Crawl Gait (Creep Gait)** implementing a strict $3+1$ moving sequence. This guarantees that a **Support Triangle** is maintained at every fraction of a second, keeping the vertical projection of the Center of Mass (COM) safe without needing dynamic balancing sensors.
 
----
 
-## 🖼️ Design Iterations (Tinkercad Views)
-
-| Top-Down Alignment | Perspective Block View |
-| :---: | :---: |
-| <img src="https://github.com/Users/asrar/OneDrive/الصور/Screenshots/لقطة شاشة 2026-07-09 184300" width="350"> | <img src="https://github.com/Users/asrar/OneDrive/الصور/Screenshots/لقطة شاشة 2026-07-09 184316" width="350"> |
-
----
 
 ## 🛠️ Anticipated Mechanical Mitigations
 * **Vibration Control:** Tight tolerances and dual-bearing pivots to eliminate joint backlash.
