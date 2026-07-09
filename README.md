@@ -9,7 +9,7 @@ Preliminary 3D mechanical design of a quadruped robot dog using Tinkercad, evalu
 This repository contains the preliminary 3D mechanical design and engineering report for a bio-inspired quadruped robot dog. The goal of this project is to explore the mechanical fundamentals, stability criteria, and actuator constraints required to achieve stable robotic walking.
 
 <p align="center">
-  <img src="image_af1463.png" alt="Quadruped Robot Design" width="450">
+  <img src="لقطة شاشة 2026-07-08 013747" alt="Quadruped Robot Design" width="450">
 </p>
 
 ## 🚀 Project Overview
@@ -37,7 +37,7 @@ The robot utilizes a **Static Crawl Gait (Creep Gait)** implementing a strict $3
 
 | Top-Down Alignment | Perspective Block View |
 | :---: | :---: |
-| <img src="image_ae9487.png" width="350"> | <img src="image_af1463.png" width="350"> |
+| <img src="لقطة شاشة 2026-07-09 184300" width="350"> | <img src="لقطة شاشة 2026-07-09 184316" width="350"> |
 
 ---
 
